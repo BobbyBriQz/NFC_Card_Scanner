@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NFC Card Scanner</string>
+    <string name="card_image">card image</string>
+    <string name="card_tap_prompt">Please tap NFC card against the device to scan card.</string>
 </resources>
